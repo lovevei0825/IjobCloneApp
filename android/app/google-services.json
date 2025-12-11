@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859448764946",
+    "project_id": "ijob-clone-app-a7705",
+    "storage_bucket": "ijob-clone-app-a7705.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859448764946:android:d6fe8096efdefdb80946cb",
+        "android_client_info": {
+          "package_name": "gulshear.solis_ijob_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNDfVXvUM2C9wSr60MA-_Qhp6cZ4S9sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
