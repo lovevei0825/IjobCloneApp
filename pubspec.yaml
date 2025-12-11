@@ -1,0 +1,37 @@
+name: solis_ijob_clone_app
+description: A clone login/signup app
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^2.12.0
+  firebase_auth: ^4.6.0
+
+  # UI + helpers
+  cached_network_image: ^3.2.3
+  flutter_spinkit: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logib.png
+    - assets/images/wallpaper.png
+
+  fonts:
+    - family: Signature
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
